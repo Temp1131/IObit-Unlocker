@@ -1,2 +1,2 @@
 # IObit-Unlocker
-A multilingual translation tool for unlocking.
+A tool for unlocking.
